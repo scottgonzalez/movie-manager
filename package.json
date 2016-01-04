@@ -1,0 +1,29 @@
+{
+  "name": "movie-manager",
+  "version": "0.0.0",
+  "description": "Manage your local movie collection",
+  "main": "lib/manager.js",
+  "devDependencies": {},
+  "dependencies": {
+    "mysql": "^2.10.0"
+  },
+  "scripts": {
+    "test": "jshint lib/**"
+  },
+  "keywords": [
+    "movie",
+    "manager",
+    "imdb",
+    "omdb"
+  ],
+  "author": "Scott González <scott.gonzalez@gmail.com> (http://scottgonzalez.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottgonzalez/movie-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scottgonzalez/movie-manager/issues"
+  },
+  "homepage": "https://github.com/scottgonzalez/movie-manager#readme"
+}
