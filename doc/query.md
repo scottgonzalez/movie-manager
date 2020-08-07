@@ -51,6 +51,6 @@ Limits the query based on a related entity.
 
 ### `exec()`
 
-Executs the query.
+Executes the query.
 
 Returns a promise which resolves when the query is complete.
